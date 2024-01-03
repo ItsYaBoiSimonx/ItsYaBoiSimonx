@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyaboisimonx&layout=compact)" alt="Top Langs"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyaboisimonx&layout=compact" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=itsyaboisimonx&show_icons=true&theme=radical" alt="stats">
 </p>
 
