@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, welcome to my profile! </h1>
 <p align="center">
-  <a><img src="header.png" alt="imgProfile"></a>
+  <a><img src="fgunny.png" alt="imgProfile"></a>
 </p>
 
 <h1 align="center">these are some socials im on + some tools i use on a daily basis </h1>
