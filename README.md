@@ -1,8 +1,9 @@
 <h1 align="center">Hello there 👋, welcome to my profile! </h1>
 <p align="center">
   My name is Simone, i am an aspiring developer looking to expand my skills in various aspects of the programming world, such as penetration testing, game hacking and reverse engineering, just to name a few.
-  https://simonx.dev/
 </p>
+
+<h1 align="center">https://simonx.dev/</h1>
 
 
 
